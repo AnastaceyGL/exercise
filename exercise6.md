@@ -1,1 +1,0 @@
-This is a new file called ex6.md.
